@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hints_for_textview">Clicks on the buttons</string>
+</resources>
